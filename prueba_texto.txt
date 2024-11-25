@@ -1,2 +1,6 @@
+
+
 ESTO ES UNA PRUEBA DE ARCHIVO EN UNA RAMA2 DE MI PROYECTO REMOTO.
 VERIFICANDO............
+
+Se agrega información a esté archivó 
